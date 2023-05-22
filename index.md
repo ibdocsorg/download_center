@@ -23,6 +23,6 @@
 
 |Name  |<span style="display: inline-block; width:150px">Download Link</span> | Description
 |--|--|--
-| RAW SERVER TEST (yabs.sh) | [NA](https://ibdocsorg.github.io/download_center/yabs_may20.txt) | Disk speed seems to be low, but this was due to RAID process in the background. Other than that, the server is pretty good.
+| RAW SERVER TEST (yabs.sh) | [May 20 Test Result](https://ibdocsorg.github.io/download_center/yabs_may20.txt) | Disk speed seems to be low, but this was due to RAID process in the background. Other than that, the server is pretty good.
 
 ***
