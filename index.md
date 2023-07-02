@@ -23,7 +23,7 @@
 
 |Name  |<span style="display: inline-block; width:150px">Download Link</span> | Description
 |--|--|--
-| RAW SERVER TEST (yabs.sh) | [May 20 Test Result](https://ibdocsorg.github.io/download_center/yabs_may20.txt) | Disk speed seems to be low, but this was due to RAID process in the background. Other than that, the server is pretty good.
+| RAW SERVER TEST (yabs.sh) | [May 20 Test Result](https://ibdocsorg.github.io/download_center/yabs_may20.txt) &vert; [July 2nd Test Result](https://ibdocsorg.github.io/download_center/yabs_jul2.txt) | Disk speed seems to be low, but this was due to RAID process in the background. Other than that, the server is pretty good.
 | Nginx Configuration | [July 2nd Backup](https://ibdocsorg.github.io/download_center/nginx-2nd_july.txt) | This is backup of current Nginx configuration
 
 ***
